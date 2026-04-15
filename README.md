@@ -15,12 +15,12 @@
 
 <br/><br/>
 
-<!-- ═══════ ANIMATED ACTIVITY GRAPH BANNER ═══════ -->
+<!-- ═══════ TROPHY SHELF ═══════ -->
 <img src="https://github-profile-trophy.vercel.app/?username=SoumyaranjanDS&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%"/>
 
 <br/>
 
-<!-- ═══════ SOCIAL BADGES — GLOWING STYLE ═══════ -->
+<!-- ═══════ SOCIAL BADGES ═══════ -->
 <p>
   <a href="https://www.linkedin.com/in/soumyaranjanlink/" target="_blank">
     <img src="https://img.shields.io/badge/━━━━%20LinkedIn%20━━━━-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13002b"/>
@@ -46,14 +46,10 @@
 <!-- ████████████████████████  ABOUT ME  ████████████████████████ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=9999&pause=9999&color=6d28d9&center=true&vCenter=true&width=400&height=30&lines=◈+//+INITIALIZING+PROFILE+DATA..." alt="section"/>
-
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32px"/>
   &nbsp;<code>◈ // about_me.py</code>
 </h2>
-
 </div>
 
 <table align="center" width="96%">
@@ -206,7 +202,6 @@ print(me.current_status())
 
 <div align="center">
 
-<!-- PROJECT CARDS ROW -->
 <table width="96%">
 <tr>
 
@@ -263,13 +258,13 @@ Live web scraping, REST APIs, smart filtering, pagination & local bookmarking �
  ╭─────────────────────────╮
  │  📉  C H U R N M L      │
  │  ─────────────────────  │
- │  Prediction System      │
+ │  ML Prediction System   │
  ╰─────────────────────────╯
 ```
 
 **ML Churn Prediction Pipeline**
 
-EDA, multi-model benchmarking (LR, RF, XGBoost, NN), TensorFlow, deployed as interactive Streamlit app
+EDA, multi-model benchmarking (LR, RF, XGBoost, NN), TensorFlow — deployed as interactive Streamlit app
 
 ![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TF-7c3aed?style=flat-square&logo=tensorflow&logoColor=white)
