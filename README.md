@@ -43,46 +43,7 @@
     &nbsp;<code>◈ // about_me</code>
   </h2>
 </div>
-
-```python
-class SoumyaranjanSahoo:
-
-    name         = "Soumyaranjan Sahoo"
-    role         = "Full Stack Developer & ML Enthusiast"
-    location     = "Bhubaneswar, Odisha, India"
-
-    primary_stack = [
-        "React", "Node.js", "Express.js", "MongoDB",
-        "Python", "FastAPI", "Tailwind CSS"
-    ]
-
-    currently_learning = [
-        "Docker & Containerization",
-        "Machine Learning (Scikit-learn, TensorFlow)",
-        "Cloud Deployment & DevOps Practices"
-    ]
-
-    side_projects = [
-        "VedaAI   → AI-powered healthcare triage platform",
-        "Nexus    → Full-stack job aggregator with web scraping",
-        "ChurnML  → End-to-end customer churn prediction system"
-    ]
-
-    education = {
-        "MCA"  : "Trident Academy of Creative Technology (2025–2027)",
-        "B.Sc" : "Banki Autonomous College, Computer Science (2023–2025)"
-    }
-
-    open_to    = ["Collaborations", "Open Source", "Internships"]
-    mantra     = "Build things that matter. Break things to learn. Ship things that last."
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
-
-
-me = SoumyaranjanSahoo()
-me.say_hi()
-```
+I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate about building modern and user-friendly web applications. I have experience with React, Node.js, MongoDB, JavaScript, SQL, and Java, and I enjoy creating full-stack projects while continuously improving my development skills.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
 
