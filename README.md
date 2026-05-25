@@ -43,7 +43,8 @@
     &nbsp;<code>◈ // about_me</code>
   </h2>
 </div>
-I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate about building modern and user-friendly web applications. I have experience with React, Node.js, MongoDB, JavaScript, SQL, and Java, and I enjoy creating full-stack projects while continuously improving my development skills.
+
+MCA student and full-stack developer with **10+ deployed production projects**, including an AI-assisted healthcare triage platform, a real-time MERN messaging app, and an ML-powered customer churn prediction system with **84% ROC AUC**. Skilled in the MERN stack, Python data tooling, and building end-to-end web applications from database to UI. Targeting backend and full-stack developer roles with a strong interest in open-source and applied machine learning.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
 
@@ -62,21 +63,29 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
 
 <div align="center">
 
-**`[ CORE STACK ]`**
+**`[ LANGUAGES ]`**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nodejs,express,mongodb,tailwind&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,c&theme=dark&perline=10"/>
+
+<br/><br/>
+
+**`[ FRAMEWORKS & LIBRARIES ]`**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark&perline=10"/>
 
 <br/><br/>
 
-**`[ DATA & AI ]`**
+**`[ DATA & ML ]`**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,streamlit&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark&perline=10"/>
 
-<br/><br/>
+> NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · Web Scraping · Agno
+
+<br/>
 
 **`[ DEVOPS & TOOLS ]`**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,netlify,render,linux&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,netlify,render&theme=dark&perline=10"/>
 
 <br/><br/>
 
@@ -93,23 +102,81 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVE PROJECTS                          -->
+<!--                         PROJECTS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28px"/>
-    &nbsp;<code>◈ // active_projects</code>
+    &nbsp;<code>◈ // projects</code>
+  </h2>
+</div>
+
+<details>
+<summary><b>🧠 VedaAI — AI-Assisted Healthcare Triage Platform</b></summary>
+<br/>
+
+```
+Stack : React · Node.js · Express · MongoDB · JWT
+```
+
+- Built an AI-assisted healthcare platform for symptom triage, private health concerns, and doctor connection
+- Designed and implemented RESTful APIs using Node.js and Express, handling authentication, report generation, and appointment scheduling with **JWT-based security**
+- Implemented a responsive full-stack app using **React, Node.js, Express, and MongoDB**
+
+</details>
+
+<details>
+<summary><b>💬 Chatify — Real-Time Collaborative Platform</b></summary>
+<br/>
+
+```
+Stack : React · Node.js · Express · MongoDB · Socket.IO · JWT · bcrypt
+```
+
+- Built a **bi-directional real-time messaging platform** using Socket.IO with persistent WebSocket connections, supporting instant message delivery across concurrent users
+- Implemented **secure user registration and authentication** (JWT + bcrypt), interactive user discovery, and live online/offline presence indicators
+- Delivered a responsive, high-end full-stack MERN application with visual excellence
+
+</details>
+
+<details>
+<summary><b>📉 RetainQ — Customer Churn Prediction System</b></summary>
+<br/>
+
+```
+Stack : React · Node.js · Express · MongoDB · Python · Scikit-learn
+```
+
+- Built a full-stack customer prediction platform featuring an **interactive dashboard** for visualizing churn risk across customers
+- Achieved **84.08% ROC AUC** and **77.71% test accuracy** with logistic regression, selected as best model after comparing multiple approaches
+- Deployed as an interactive MERN stack web application with **real-time prediction interface**
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        EDUCATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28px"/>
+    &nbsp;<code>◈ // education</code>
   </h2>
 </div>
 
 <div align="center">
 
-| | Project | Stack | Status |
-|:---:|:---|:---:|:---:|
-| 🧠 | **[VedaAI](https://github.com/SoumyaranjanDS)** — AI-assisted healthcare triage platform with patient & doctor dashboards | ![React](https://img.shields.io/badge/React-9333ea?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-9333ea?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-9333ea?style=flat-square&logo=mongodb&logoColor=white) | ![ACTIVE](https://img.shields.io/badge/●_ACTIVE-22c55e?style=flat-square) |
-| 🔍 | **[Nexus.sys](https://github.com/SoumyaranjanDS)** — Full-stack job aggregator with live scraping, REST APIs & smart filtering | ![React](https://img.shields.io/badge/React-9333ea?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-9333ea?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-9333ea?style=flat-square&logo=python&logoColor=white) | ![ACTIVE](https://img.shields.io/badge/●_ACTIVE-22c55e?style=flat-square) |
-| 📉 | **[ChurnML](https://github.com/SoumyaranjanDS)** — End-to-end churn prediction with EDA, model benchmarking & Streamlit UI | ![Python](https://img.shields.io/badge/Python-9333ea?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-9333ea?style=flat-square&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-9333ea?style=flat-square&logo=streamlit&logoColor=white) | ![COMPLETE](https://img.shields.io/badge/●_SHIPPED-a855f7?style=flat-square) |
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| **Master of Computer Applications (MCA)** | Trident Academy of Creative Technology, Bhubaneswar | 2025 – 2027 |
+| **B.Sc in Computer Science** | Banki Autonomous College, Banki | 2023 – 2025 |
 
 </div>
 
@@ -120,80 +187,25 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WORK / PROJECT HISTORY                   -->
+<!--                    ADDITIONAL INFO                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="28px"/>
-    &nbsp;<code>◈ // project_deep_dive</code>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="28px"/>
+    &nbsp;<code>◈ // more_about_me</code>
   </h2>
 </div>
 
-<details>
-<summary><b>🧠 VedaAI — AI-Assisted Healthcare Triage Platform</b></summary>
-<br/>
+<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PROJECT  : VedaAI                                           ║
-║  TYPE     : Full Stack Web Application                       ║
-║  STACK    : React • Node.js • Express • MongoDB              ║
-║  FOCUS    : AI Health Triage & Doctor-Patient Platform       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| | |
+|:---:|:---|
+| 🗣️ **Languages** | English · Hindi · Odia |
+| 💡 **Interests** | Full Stack Development · Open-Source Projects · Machine Learning |
+| 🤝 **Soft Skills** | Teamwork · Quick Learner · Problem Solving · Time Management |
 
-- 🏗️ Architected a **dual-dashboard system** — separate workflows for patients and doctors with real-time notifications
-- 💬 Built AI-assisted **symptom triage engine** to help users assess health concerns privately before consulting doctors
-- 📋 Implemented **consultation report generation** and full appointment/notification lifecycle management
-- 🔐 Designed RESTful API with **secure auth flows** and role-based access control (RBAC)
-- 📱 Delivered a **fully responsive** React frontend with Tailwind CSS, optimized for mobile-first healthcare UX
-- 🍃 Used **MongoDB** for flexible schema storage of medical records and consultation logs
-
-</details>
-
-<details>
-<summary><b>🔍 Nexus.sys — Intelligent Job Finder Platform</b></summary>
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PROJECT  : Nexus.sys                                        ║
-║  TYPE     : Full Stack + Data Engineering                    ║
-║  STACK    : React • FastAPI • Python • Render • Netlify      ║
-║  FOCUS    : Job Aggregation & Discovery Engine               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-- 🕷️ Built a **Python web scraper** to extract and normalize job listings from multiple external platforms
-- ⚡ Designed a **FastAPI backend** with optimized REST endpoints for listing retrieval, filtering, and sorting
-- 📄 Implemented **server-side pagination** and multi-parameter filtering for efficient large dataset browsing
-- 🔖 Added **client-side local bookmarking** system for users to save and track preferred job postings
-- 🚀 Deployed with **split architecture** — Render (Python backend) + Netlify (React frontend) for zero-cost cloud hosting
-- 🎨 Built clean, **responsive UI** that works seamlessly across desktop and mobile viewports
-
-</details>
-
-<details>
-<summary><b>📉 Customer Churn Prediction System — ML Pipeline</b></summary>
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PROJECT  : Customer Churn Predictor                         ║
-║  TYPE     : End-to-End ML Application                        ║
-║  STACK    : Python • Scikit-learn • TensorFlow • Streamlit   ║
-║  FOCUS    : Predictive Analytics & Model Deployment          ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-- 📊 Conducted thorough **Exploratory Data Analysis (EDA)** using Pandas, NumPy, Matplotlib, and Seaborn
-- 🤖 Trained and evaluated **multiple ML models** — Logistic Regression, Random Forest, XGBoost, and Neural Network
-- 🏆 Applied feature engineering and hyperparameter tuning to identify the **highest-accuracy approach**
-- 🌐 Deployed as an **interactive Streamlit web app** — allowing live predictions from user-input customer data
-- 📈 Achieved production-ready **model performance metrics** with confusion matrix and ROC curve visualizations
-
-</details>
+</div>
 
 <br/>
 
@@ -249,8 +261,6 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
   </picture>
 </div>
 
-> **⚙️ Setup:** To enable the snake animation, add a GitHub Actions workflow — see [Platane/snk](https://github.com/Platane/snk) for setup instructions.
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
@@ -260,13 +270,6 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      DEV QUOTE                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28px"/>
-    &nbsp;<code>◈ // random_thought</code>
-  </h2>
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Build+things+that+matter.+Break+things+to+learn.+Ship+things+that+last.&author=Soumyaranjan+Sahoo" width="80%"/>
@@ -294,4 +297,4 @@ I’m Soumyaranjan Sahoo, an MCA student and MERN Stack Developer passionate abo
     &nbsp;•&nbsp;
     <a href="mailto:Soumyaranjansahoo97292@gmail.com">Drop a mail</a>
   </sub>
-</div>        """
+</div>
