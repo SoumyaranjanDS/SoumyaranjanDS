@@ -127,7 +127,7 @@ Stack : React · Node.js · Express · MongoDB · JWT
 </details>
 
 <details>
-<summary><b>💬 Chatify — Real-Time Collaborative Platform</b></summary>
+<summary><b>Chatify — Real-Time Collaborative Platform</b></summary>
 <br/>
 
 ```
