@@ -4,14 +4,16 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d0a5e&height=200&section=header&text=Soumyaranjan%20Sahoo&fontSize=42&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descColor=a855f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:17132B,100:6D28D9&height=150&text=Soumyaranjan%20Sahoo&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=FULL-STACK%20DEVELOPER&descSize=14&descAlignY=70&descColor=DDD6FE" width="100%" alt="Soumyaranjan Sahoo — Full-Stack Developer" />
 
-<!-- TYPING SVG -->
-<a href="https://github.com/SoumyaranjanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=~/soumyaranjan+%24+echo+%22Full+Stack+Developer%22;~/soumyaranjan+%24+echo+%22React+%7C+Node.js+%7C+MongoDB%22;~/soumyaranjan+%24+echo+%22MCA+%40+Trident+Academy%2C+Bhubaneswar%22;~/soumyaranjan+%24+echo+%22Building+AI-Powered+Web+Apps%22;~/soumyaranjan+%24+echo+%22Open+Source+%7C+ML+%7C+Cloud%22;~/soumyaranjan+%24+_" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=440&height=42&lines=Web+apps.+Real-time+systems.+Applied+AI." alt="Web apps. Real-time systems. Applied AI." />
 
-<br/>
+Building with **React, Node.js, and Python**.  
+MCA student at Trident Academy, Bhubaneswar · 2025–2027
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://soumya.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/soumyafde/)
+[![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyaranjansahoo97292@gmail.com)
 
 <!-- ─── SOCIAL BADGES ─── -->
 <p align="center">
