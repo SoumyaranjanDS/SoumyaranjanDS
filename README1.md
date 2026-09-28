@@ -11,10 +11,6 @@
 Building with **React, Node.js, and Python**.  
 MCA student at Trident Academy, Bhubaneswar · 2025–2027
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://soumya.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/soumyafde/)
-[![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyaranjansahoo97292@gmail.com)
-
 <!-- ─── SOCIAL BADGES ─── -->
 <p align="center">
   <a href="https://www.linkedin.com/in/soumyaranjanlink/">
